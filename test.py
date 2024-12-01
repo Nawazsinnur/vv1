@@ -1,3 +1,3 @@
 print("vvce")
 print("mysr")
-print("bnglr")
+print("mnglr")
